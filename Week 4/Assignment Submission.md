@@ -1,6 +1,4 @@
-1. From time to time, Dr. Chris Brooks may want to share your work anonymously (via social media channels such as Twitter), to highlight some of the accomplishments of learners in this course.
-
-If you agree that you are comfortable with instructor sharing your Assignment #4 as an example of great work, please type YES in the text box.
+1. From time to time, Dr. Chris Brooks may want to share your work anonymously (via social media channels such as Twitter), to highlight some of the accomplishments of learners in this course. If you agree that you are comfortable with instructor sharing your Assignment #4 as an example of great work, please type YES in the text box.
 
 * Yes
 
@@ -20,17 +18,15 @@ If you agree that you are comfortable with instructor sharing your Assignment #4
 5. Upload an image which addresses your research question.
 * rate_correlation.png
 
-6. In addition to addressing your research question, this visual should address Cairo's principles of truthfulness, functionality, beauty, and insightfulness.
-
-Provide a short (1-2 paragraphs) justification of how your visual addresses your research question.
+6. In addition to addressing your research question, this visual should address Cairo's principles of truthfulness, functionality, beauty, and insightfulness. Provide a short (1-2 paragraphs) justification of how your visual addresses your research question.
 
 * This visualization was concerned with answering the question of how the unemployment rate and mortgage delinquency rates in the United States have changed over the last 26 years. We did not focus on any specific city or state while scrapping the data. Federal reserve bank of St. Louis was scraped for data concerning unemployment and delinquency rate across the US. Any data older than 1990 were dropped from the analysis in order to provide a more level comparison since we only had unemployment data from 1991 onward. A 26 year moving average was plotted to help the reader visualize how closely the rates have changed over the years.
 
-The plot indicates that there were two peaks in unemployment rates around 1993 and 2010. Almost 10% people of the total population were unemployed around the year 2010. There can be multiple reasons behind this but one likely cause might the stock market crash in 2008. US economy was greatly affected because of this and lot of people lost their job. Eve though mortgage delinquency rate was quite low till 2005, it peaked from 2006 and was the highest in 2010 hitting almost 12% of the houses owned. It started to decrease around 2014 with unemployment rate. If we look at the two lines closely, we will see that even though there was a gap till 2007, they changed equally after that. There seems to be a correlation between the two. If someone doesn't have any job, it is quite difficult for them to pay their mortgage. We found 80% correlation between the two which supports our hypothesis.
+    The plot indicates that there were two peaks in unemployment rates around 1993 and 2010. Almost 10% people of the total population were unemployed around the year 2010. There can be multiple reasons behind this but one likely cause might the stock market crash in 2008. US economy was greatly affected because of this and lot of people lost their job. Eve though mortgage delinquency rate was quite low till 2005, it peaked from 2006 and was the highest in 2010 hitting almost 12% of the houses owned. It started to decrease around 2014 with unemployment rate. If we look at the two lines closely, we will see that even though there was a gap till 2007, they changed equally after that. There seems to be a correlation between the two. If someone doesn't have any job, it is quite difficult for them to pay their mortgage. We found 80% correlation between the two which supports our hypothesis.
 
 7. As this assignment is for the whole course, you must incorporate and defend the principles discussed in the first week, specifically, Cairo’s principles of truth, beauty, function, and insight.
 
-For each of the following prompts, please provide a response that links each principle to one or more elements of your visual.
+    For each of the following prompts, please provide a response that links each principle to one or more elements of your visual.
 
     Describe your design choices for your visual in regards to Cairo's principle of truthfulness.
     Describe your design choices for your visual in regards to Cairo's principle of beauty.
