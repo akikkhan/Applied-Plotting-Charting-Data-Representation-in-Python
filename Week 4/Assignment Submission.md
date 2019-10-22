@@ -24,14 +24,12 @@
 
     The plot indicates that there were two peaks in unemployment rates around 1993 and 2010. Almost 10% people of the total population were unemployed around the year 2010. There can be multiple reasons behind this but one likely cause might the stock market crash in 2008. US economy was greatly affected because of this and lot of people lost their job. Eve though mortgage delinquency rate was quite low till 2005, it peaked from 2006 and was the highest in 2010 hitting almost 12% of the houses owned. It started to decrease around 2014 with unemployment rate. If we look at the two lines closely, we will see that even though there was a gap till 2007, they changed equally after that. There seems to be a correlation between the two. If someone doesn't have any job, it is quite difficult for them to pay their mortgage. We found 80% correlation between the two which supports our hypothesis.
 
-7. As this assignment is for the whole course, you must incorporate and defend the principles discussed in the first week, specifically, Cairo’s principles of truth, beauty, function, and insight.
+7. As this assignment is for the whole course, you must incorporate and defend the principles discussed in the first week, specifically, Cairo’s principles of truth, beauty, function, and insight. For each of the following prompts, please provide a response that links each principle to one or more elements of your visual.
 
-    For each of the following prompts, please provide a response that links each principle to one or more elements of your visual.
-
-    Describe your design choices for your visual in regards to Cairo's principle of truthfulness.
-    Describe your design choices for your visual in regards to Cairo's principle of beauty.
-    Describe your design choices for your visual in regards to Cairo's principle of functionality.
-    Describe your design choices for your visual in regards to Cairo's principle of insightfulness. 
+  1.  Describe your design choices for your visual in regards to Cairo's principle of truthfulness.
+  2.  Describe your design choices for your visual in regards to Cairo's principle of beauty.
+  3.  Describe your design choices for your visual in regards to Cairo's principle of functionality.
+  4.  Describe your design choices for your visual in regards to Cairo's principle of insightfulness. 
 
 * This graph presents truthful information as the data were scrapped from a federal bank website which provides exact information as US census and bureau of employment.
 * This plot satisfies Cairo's principle of beauty because it is a simple graph that shows all the information. It does not have extra grid lines or features that make a graph complicated.
